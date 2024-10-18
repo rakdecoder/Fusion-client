@@ -19,8 +19,8 @@ function Header() {
             Merit-cum-Means Scholarship
           </Text>
         </NavLink>
-
         <NavLink
+        
           to="/ConvocationMedal"
           style={({ isActive }) => ({
             textDecoration: "none",
